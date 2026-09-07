@@ -10,10 +10,14 @@ Your group folder will be:
 
 `docs/group-XX-Section/`
 
-## 3. Do not modify other groups' folders.
+## 3. Delete other groups' folders.
 
-## 4. Commit your work regularly.
+## 4. Create a file inside your group folder, name it as worksheet-1.md.
 
-## 5. When your project is ready, create a Pull Request to the teacher's repository.
+## 5. Copy the contents of `templates/worksheet-1.md` and paste it inside your group's directory `docs/group-XX-Section/worksheet-1.md`
 
-## 6. Wait for teacher approval before considering the submission final.
+## 6. Commit your work regularly.
+
+## 7. When your project is ready, create a Pull Request to the teacher's repository.
+
+## 8. Wait for teacher approval before considering the submission final.
