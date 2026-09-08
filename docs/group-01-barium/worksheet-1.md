@@ -9,7 +9,7 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
+| **Team Members**           | 1. student 1     |
 |                            | 2.      |
 |                            | 3.      |
 |                            | 4.      |
