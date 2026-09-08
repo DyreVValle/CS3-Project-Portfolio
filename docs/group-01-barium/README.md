@@ -2,7 +2,7 @@
 
 ## Members
 
-1. 
+1. student 1
 2. 
 3. 
 4. 
