@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> this is a sample answer. this is a sample answer. this is a sample answer.
 
 <br>
 
