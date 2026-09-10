@@ -2,8 +2,8 @@
 
 ## Members
 
-1. 
-2. 
+1. student 1
+2. student 2
 3. 
 4. 
 5. 
