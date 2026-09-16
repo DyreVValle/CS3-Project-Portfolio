@@ -9,13 +9,13 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **Team Members**           | 1. Dyre Valle     |
+|                            | 2. Angelica Magadan     |
+|                            | 3. Marvoun Coranes     |
+|                            | 4. Violet Berzamina     |
+|                            | 5. Juan Oliva     |
+|                            | 6. Arriane Dass     |
+| **PSHS-DRC Area/Location** | Canteen        |
 
 ---
 
