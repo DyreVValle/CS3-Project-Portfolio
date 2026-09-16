@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** | CanteenGo: A Self-Service Food Ordering System        |
 | **Team Members**           | 1. Dyre Valle     |
 |                            | 2. Angelica Magadan     |
 |                            | 3. Marvoun Coranes     |
