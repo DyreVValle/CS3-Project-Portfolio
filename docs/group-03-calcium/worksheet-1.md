@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> PSHS-DRC's canteen utilizes a line system for scholars to order, receive, and pay for their food. 
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> It is to provide the school's scholars with food and sustenance which is often available for breakfast, lunch, and dinner depending on the situation.
 
 <br>
 
@@ -39,18 +39,17 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Food Server         | The food server takes the student's order and completes it on the spot for the student to collect themselves.                              |
+| 2. Cashier         | The cashier receives the student's payment for the order after the food server is finished preparing it.                              |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | A student lines up at the canteen.              | Student                     |
+| 2    | They grab a plate or request the food server for takeout.              | Student, Food Server                     |
+| 3    | They dictate their order for the food server to prepare.              | Food Server                     |
+| 4    | They show their order to the cashier for them to calculate the price.              | Cashier                     |
 
 ---
 
