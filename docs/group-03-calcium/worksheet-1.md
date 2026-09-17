@@ -91,7 +91,7 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
+| 1. Canteen Menu     | To provide a list of the available delicacies and prices        |
+| 2. Direct Online Payment     | Pay with GCash or any other online banking app if available.        |
 | 3.      |         |
 | 4.      |         |
