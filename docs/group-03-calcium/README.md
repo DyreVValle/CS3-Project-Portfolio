@@ -11,4 +11,4 @@
 
 ## Project Title
 
-_To be determined._
+_CanteenGo: A Self-Service Food Ordering System_
