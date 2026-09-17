@@ -93,5 +93,5 @@
 | ------- | ------- |
 | 1. Canteen Menu     | To provide a list of the available delicacies and prices        |
 | 2. Direct Online Payment     | Pay with GCash or any other online banking app if available.        |
-| 3.      |         |
-| 4.      |         |
+| 3. Live Queue List     | Check if you're next up in food preparation or serving.       |
+| 4. Smart Pick-up Notification     | Notifies the person who ordered that their food is complete        |
