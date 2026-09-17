@@ -57,7 +57,7 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The line is susceptible to cutting—people usually go in between others to skip the waiting time. There are also inefficiencies in the food server's preparation of an order. The canteen is also small for the student body and faculty.
 
 <br>
 
