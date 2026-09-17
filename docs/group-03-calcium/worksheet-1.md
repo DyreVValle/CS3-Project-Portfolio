@@ -81,8 +81,9 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. People       | Ordering Food            |
+| 2. Cashier       | Checking the price to ensure correct payment       |
+| 3. Food Server      | Checking the Order|
 
 ### 3. What are the essential features?
 
