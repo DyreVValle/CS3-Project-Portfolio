@@ -63,7 +63,7 @@
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> Our plan is to stop people from cutting the line and improve the overall efficiency of the serving process by avoiding order confusion. We also want to reduce the waiting line size to avoid cramped spaces.
 
 <br>
 
@@ -73,7 +73,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> Our group proposes an ordering app where a person can input their food request without having to wait in line. The person can either use GCash or any other online banking app or pay directly in cash. This solves the line cutting problem by making sure orders are taken and lined up by time of request. It also solves the efficiency problem by providing clear instructions for the order so the food servers wont be confused. After this, the person can pickup their order once it is complete.
 
 <br>
 
